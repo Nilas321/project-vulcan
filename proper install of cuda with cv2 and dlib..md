@@ -28,8 +28,8 @@ Now press generate and close cmake once this is done.
 Go to build folder that you create. open cmd there and type "cmake ." . after this do cd.. or go to dlib folder and open cmd. type "python setup.py install"
 
 you can check by closing all python codes and opening a python terminal and writing in shell:
->>> import dlib
->>> dlib.DLIB_USE_CUDA
+import dlib
+dlib.DLIB_USE_CUDA
 if you get true, congratulations.
 
 
