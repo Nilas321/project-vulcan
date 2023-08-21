@@ -1,6 +1,7 @@
 # Project VULCAN
 
-![vulcan](https://github.com/ERC-BPGC/project-vulcan/assets/64892362/a531771b-ac93-41cb-bac0-f346c7f06721) 
+  ![vulcan](https://github.com/ERC-BPGC/project-vulcan/assets/64892362/d91b1db4-2ce1-4892-a556-d81ed1114b14)
+
 A project in which we aim at making a humanoid robot's facial structure that can interact with humans and have some simple skills and interactions.
 
 ## Usage of this project
