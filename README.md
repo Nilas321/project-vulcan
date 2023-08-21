@@ -1,6 +1,7 @@
 # Project VULCAN
 
-![vulcan](https://github.com/ERC-BPGC/project-vulcan/assets/64892362/503fb3bd-43de-4e31-9063-d38982163e6e ) A project in which we aim at making a humanoid robot's facial structure that can interact with humans and have some simple skills and interactions.
+![vulcan](https://github.com/ERC-BPGC/project-vulcan/assets/64892362/a531771b-ac93-41cb-bac0-f346c7f06721) 
+A project in which we aim at making a humanoid robot's facial structure that can interact with humans and have some simple skills and interactions.
 
 ## Usage of this project
 
@@ -74,3 +75,15 @@ Well... this is probably the 1% out of the 100 that we can do with... can start 
 * [ROS](https://www.ros.org/) - Environment used
 * [OPENCV](https://opencv.org/) - Used for vision
 
+## Contributers
+
+* [Parth Shah](https://github.com/Parth-Shah-Tool-Kit) - Project lead
+* [Ritwik Sharma](https://github.com/Maker-Rat) - Project lead
+  
+* [Ajinkya Deshpande](https://github.com/ajinkya110001)
+* [Atul M](https://github.com/RoboAM13)
+* [Mehlam Songerwala](https://github.com/mehlams)
+* [Nayan Gogari](https://github.com/NG2411)
+* [Sharvil Potdar](https://github.com/SMP111  )
+* [Padi Sudeep](https://github.com/WhatRaSudeep)
+* [Vimarsh Shah](https://github.com/vimarsh244)
