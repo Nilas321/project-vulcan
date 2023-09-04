@@ -3,7 +3,7 @@ import numpy as np
 from keras.models import load_model
 
 
-model_path = "fer2013_mini_XCEPTION.107-0.66.hdf5"
+model_path = "fer_model.hdf5"
 emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
 model = load_model(model_path, compile=False)
 
