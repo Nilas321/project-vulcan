@@ -88,4 +88,9 @@ Well... this is probably the 1% out of the 100 that we can do with... can start 
 * [Sharvil Potdar](https://github.com/SMP111  )
 * [Padi Sudeep](https://github.com/WhatRaSudeep)
 * [Vimarsh Shah](https://github.com/vimarsh244)
+* [Naitik Verma](https://github.com/07naitik)
+* [Shloka Shetty](https://github.com/shloka15)
+* [Nilay Wani](https://github.com/Anymal2408)
+* [Vrishti Godhwani]()
+* [Param Gandhi]()
 
