@@ -80,17 +80,19 @@ Well... this is probably the 1% out of the 100 that we can do with... can start 
 
 * [Parth Shah](https://github.com/Parth-Shah-Tool-Kit) - Project lead
 * [Ritwik Sharma](https://github.com/Maker-Rat) - Project lead
-  
-* [Ajinkya Deshpande](https://github.com/ajinkya110001)
-* [Atul M](https://github.com/RoboAM13)
-* [Mehlam Songerwala](https://github.com/mehlams)
-* [Nayan Gogari](https://github.com/NG2411)
-* [Sharvil Potdar](https://github.com/SMP111  )
-* [Padi Sudeep](https://github.com/WhatRaSudeep)
-* [Vimarsh Shah](https://github.com/vimarsh244)
-* [Naitik Verma](https://github.com/07naitik)
-* [Shloka Shetty](https://github.com/shloka15)
-* [Nilay Wani](https://github.com/Anymal2408)
-* [Vrishti Godhwani](https://github.com/Vierra11)
-* [Param Gandhi](https://github.com/Pamdi8888)
 
+### Coding and Electronics team
+* [Ajinkya Deshpande](https://github.com/ajinkya110001)
+* [Mehlam Songerwala](https://github.com/mehlams)
+* [Naitik Verma](https://github.com/07naitik)
+* [Nayan Gogari](https://github.com/NG2411)
+* [Param Gandhi](https://github.com/Pamdi8888)
+* [Sharvil Potdar](https://github.com/SMP111  )
+* [Vimarsh Shah](https://github.com/vimarsh244)
+* [Vrishti Godhwani](https://github.com/Vierra11)
+
+### Mech team
+* [Atul M](https://github.com/RoboAM13)
+* [Nilay Wani](https://github.com/Anymal2408)
+* [Padi Sudeep](https://github.com/WhatRaSudeep)
+* [Shloka Shetty](https://github.com/shloka15)
