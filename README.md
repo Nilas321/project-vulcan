@@ -91,6 +91,6 @@ Well... this is probably the 1% out of the 100 that we can do with... can start 
 * [Naitik Verma](https://github.com/07naitik)
 * [Shloka Shetty](https://github.com/shloka15)
 * [Nilay Wani](https://github.com/Anymal2408)
-* [Vrishti Godhwani]()
-* [Param Gandhi]()
+* [Vrishti Godhwani](https://github.com/Vierra11)
+* [Param Gandhi](https://github.com/Pamdi8888)
 
