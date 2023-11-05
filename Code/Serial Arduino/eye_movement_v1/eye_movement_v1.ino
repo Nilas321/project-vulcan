@@ -19,19 +19,20 @@ int eye_up_down_angle = 90;
 
 int eyelid_up_angle = 30;
 
-int limit = 15;
+int limit = 5;
 
 int eye_change = 15;
 
 
 unsigned long previousMillis = 0;     // Store the last time the servo moved
-const unsigned long interval = 2000;  // 5 seconds in milliseconds
+const unsigned long interval = 7000;  // 5 seconds in milliseconds
 const unsigned long interval_blink = 100;
 
 
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(115200);
+  Serial.println("He;llow");
 
   eye_left_right.attach(2);
   eye_up_down.attach(3);
@@ -53,6 +54,7 @@ void loop() {
 
   if (Serial.available() > 0) {
     int receivedValue = Serial.parseInt();
+    Serial.println(receivedValue);
 
 
     if (receivedValue == 0) {
@@ -98,7 +100,7 @@ void loop() {
 
     eyelid_up.write(eyelid_up_angle - eye_change);
     // eye_change = -eye_change;
-    delay(interval_blink);
+    // delay(interval_blink);
     eyelid_up.write(eyelid_up_angle + eye_change);
     delay(interval_blink);
     eyelid_up.write(eyelid_up_angle - eye_change);

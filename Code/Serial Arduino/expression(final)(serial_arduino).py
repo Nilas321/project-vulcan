@@ -4,7 +4,7 @@ from keras.models import load_model
 import serial  # pip install pyserial
 
 try:
-    arduino = serial.Serial(port='COM5', baudrate=115200, timeout=.1)  # replace COM4 by appropriate arduino port
+    arduino = serial.Serial(port='/dev/ttyACM3', baudrate=115200, timeout=.1)  # replace COM4 by appropriate arduino port
 except:
     print("arduino not connected issue")
 
@@ -75,24 +75,24 @@ while True:
     try:
         if (x + w / 2) < (WIDTH / 4):
             # move left
-            # print("move left")
+            print("move left")
             arduino.write(str(0).encode())
 
         elif (x + w / 2) > (3 * WIDTH / 4):
             # move right            
-            # print("move right")
+            print("move right")
 
             arduino.write(str(2).encode())
 
         elif (y + h / 2) < (HEIGHT / 4):
             # move up
-            # print("move up")
+            print("move up")
 
             arduino.write(str(1).encode())
 
         elif (y + h / 2) > (3 * HEIGHT / 4):
             # move down
-            # print("move down")
+            print("move down")
 
             arduino.write(str(3).encode())
 
