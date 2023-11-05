@@ -5,6 +5,7 @@ from queue import Queue
 from tempfile import NamedTemporaryFile
 import torch
 import openai
+import sounddevice
 
 SYSTEM_MESSAGE = """
 Provide short, concise answers to the user's questions.

@@ -18,8 +18,6 @@ You can use the word "lite" for the prahse "take it easy", "dont worry" and othe
 
 """
  
-
-
 import openai
 openai.api_key = "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"
 
