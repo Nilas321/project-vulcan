@@ -7,7 +7,7 @@ void setup(){
 
 void loop(){
   while(Serial.available() >= 2){
-    # fill array
+    
     for (int i = 0; i < 2; i++){
       incoming[i] = Serial.read();
     }
