@@ -6,7 +6,7 @@ import mediapipe as mp
 import serial  #pip install pyserial
 import struct
 
-arduino = serial.Serial(port='/dev/ttyACM0',   baudrate=115200, timeout=.1) #replace COM4 by appropriate arduino port
+arduino = serial.Serial(port='COM37',   baudrate=115200, timeout=.1) #replace COM4 by appropriate arduino port
 
 print("Starting...")
 
