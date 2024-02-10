@@ -92,6 +92,7 @@ print("Listening...")
 a = 0
 chat_history = []
 prompt = "1"
+
     
 while True:
 
@@ -143,7 +144,7 @@ while True:
             # os.system('cls' if os.name=='nt' else 'clear')
             # for line in transcription:
             #    print(line)
-
+            
             # Flush stdout.
             print('', end='', flush=True)
 
@@ -164,6 +165,7 @@ while True:
                     data_queue.queue.clear()
                 noise_tag = False
                 counter = 0
+                
                 
             else:
                 try :
